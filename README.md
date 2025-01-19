@@ -48,7 +48,7 @@ I'm a **software developer** passionate about crafting efficient, scalable, and 
 ---
 
 ### 🤝 Connect with Me
-- **Portfolio**: [your-portfolio-link](https://your-portfolio-link.com)
+- **Portfolio**: [Mido-26-portfolio](https://mido-dev-portfolio.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - **Twitter**: [@abuumayami_008](https://x.com/Abuumaryami_008)
 - **Email**: [hamiduyusuph00@gmail.com](mailto:hamiduyusuph00@gmail.com)
